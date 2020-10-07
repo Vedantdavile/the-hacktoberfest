@@ -6,4 +6,4 @@ if __name__ == '__main__':
         for i in range(1,len(s)):
             if s[i] == s[i-1]:
                 delete_cnt +=1
-        print delete_cnt
+        print (delete_cnt)
